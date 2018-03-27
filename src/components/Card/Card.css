@@ -1,0 +1,19 @@
+.card-container {
+  margin: 0.5rem;
+}
+
+.label {
+  font-weight: 600;
+  color: blueviolet;
+  padding: 1rem;
+}
+
+.data {
+  padding: 1rem;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
